@@ -1,16 +1,16 @@
-# Pivotal Tracker Client - LEAL
+# Projeto de Integra√ß√£o com Pivotal Tracker 
 
-Cliente para consulta do Pivotal
+Constru√ß√£o de um cliente para consumo das user stories via rest criadas no Pivotal Tracker.
 
-## Ponta pÈ inicial
+## Ponta p√© inicial
 
-Essas s„o as instruÁıes para rodar o app na sua maquina local.
+Essas s√£o as instru√ß√µes para rodar o app na sua maquina local.
 
-### PrÈ-requisitos
+### Pr√©-requisitos
 
-Voce precisar· te o node,npm e o git instalado em sua maquina local e uma conex„o com a internet.
+Voce precisar√° te o node,npm e o git instalado em sua maquina local e uma conex√£o com a internet.
 
-### InstalaÁ„o
+### Instala√ß√£o
 
 Efetuar a clone do projeto
 
@@ -40,7 +40,7 @@ nodemon app.js
 
 acessar http://localhost:80/
 
-## ConstruÌdo com 
+## Constru√≠do com 
 
 * [NODEJS]
 * [JS]
@@ -48,9 +48,9 @@ acessar http://localhost:80/
 * [Consign]
 * [EJS]
 
-## Autores
+## Autor
 
-* **Thiago Barso** - *Trabalho Inicial* - [GitHub](https://github.com/thiagobarso)
+* **F√°bio Leal**
 
 ## License
 
